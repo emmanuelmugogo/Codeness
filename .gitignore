@@ -1,0 +1,9 @@
+# Eclipse workspace
+.metadata/
+.recommenders/
+
+# Eclipse project
+bin/
+.project
+.classpath
+.settings/
